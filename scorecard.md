@@ -10,4 +10,4 @@ If you pass all of the mandatory criteria you are "certified."
 
 Points push an institution towards a higher rating.
 
-The score card is as follows:
+Scorecard version 0.1.0 is available <a href="https://docs.google.com/spreadsheets/d/1TX8jRTnjVh4OkY9dp4dT__Ku14zkFaKx0vreR1Hpf9w/edit#gid=0"> here</a>. We invite everybody who cares to submit suggestions.
