@@ -2,7 +2,7 @@
 title: A Place For Everybody
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Quantifying the statement "be excellent to each other"
+  Quantifying "Be Excellent To Each Other"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "placeforeverybody.org" # the base hostname & protocol for your site
 twitter_username: jekyllrb
